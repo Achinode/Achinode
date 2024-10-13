@@ -1,4 +1,4 @@
-# Achinode.md
+# Achinode
 
 <h1 align="center">Hi 👋, I'm Achira Shashintha</h1>
 <h3 align="center">A passionate cyber security from Sri Lanka</h3>
